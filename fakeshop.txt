@@ -8,5 +8,6 @@
 # BAD SITES START HERE
 #
 127.0.0.1	hiltrop.net
+0.0.0.0 test.net
 hiltrop.info
 
