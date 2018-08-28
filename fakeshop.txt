@@ -7,7 +7,6 @@
 #
 # BAD SITES START HERE
 #
-<<<<<<< HEAD
 127.0.0.1	3d-heimdrucker.de
 127.0.0.1	aafortuna.de
 127.0.0.1	aaa-copy-fix24.de
@@ -633,7 +632,7 @@
 127.0.0.1	katja-von-gizycki.de
 127.0.0.1	kaufenoutfitsonline.com
 127.0.0.1	keltenfreunde-asperg.de
-127.0.0.1	kennelschmenger-espa��a.es
+127.0.0.1	kennelschmenger-espaÇña.es
 127.0.0.1	kennelschmengerbasket.de
 127.0.0.1	kennelschmengersandalen.de
 127.0.0.1	kennelundschmengersandalen.de
@@ -1063,7 +1062,7 @@
 127.0.0.1	schuhes.eu
 127.0.0.1	schuhe-deutschland.com
 127.0.0.1	schuhmuenchen.de
-127.0.0.1	schwarzschnǬrhalbschuhe.de
+127.0.0.1	schwarzschnÇ¬rhalbschuhe.de
 127.0.0.1	schwertfischstand.de
 127.0.0.1	scordalus-pass.at
 127.0.0.1	seafollybikinikaufen.de
@@ -1323,16 +1322,10 @@
 127.0.0.1	zuhause-hausen.de
 127.0.0.1	z9a.de
 127.0.0.1	1inday.com
-127.0.0.1	11111�?40.de
+127.0.0.1	11111Ç?40.de
 127.0.0.1	2gemini.de
 127.0.0.1	20jahrebrunch.de
 127.0.0.1	2014fahrradbekleidung.com
 127.0.0.1	21zehn.de
 127.0.0.1	50plus-top-versorgt.de
-127.0.0.1	7ti.de127.0.0.1	7ti.de
-=======
-127.0.0.1	hiltrop.net
-0.0.0.0 test.net
-hiltrop.info
-
->>>>>>> f56a0d48615f0a1124164eab864838bd020b94c5
+127.0.0.1	7ti.de
