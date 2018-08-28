@@ -1,3 +1,12 @@
+# FakeShops - FakeShops only
+#
+# The following are hosts in the FakeShops database.
+#
+127.0.0.1 localhost #IPv4 localhost
+::1 localhost #IPv6 localhost
+#
+# BAD SITES START HERE
+#
 127.0.0.1	3d-heimdrucker.de
 127.0.0.1	aafortuna.de
 127.0.0.1	aaa-copy-fix24.de
